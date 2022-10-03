@@ -9,7 +9,16 @@ html {
 body {
   padding: 0;
   margin: 0;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYVQ_IUYb8dxVSZsdLs9kIYBZCQW8rYmBohrWbYwFUNHe1-Grpv2pLZ5hqJK6t6UrB_8&usqp=CAU) 
 }
+
+
+  
 .wrapper {
   width: 400px;
   background-color: black;
@@ -54,3 +63,5 @@ body {
 .calc-button:last-child:hover {
     background-color: #dfb07e;
 }
+
+
